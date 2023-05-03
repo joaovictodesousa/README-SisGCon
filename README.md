@@ -50,7 +50,7 @@ O SisGCon e um sistema de gestão de contrato, é uma plataforma digital que per
 
 <br>
 
-# Tecnologias utilizadas no Controle de resmas
+# Tecnologias utilizadas no SisGCon
 
 * PHP | v
 
